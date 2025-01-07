@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
-#define VALID_USERNAME "mahatiatre"
+#define VALID_USERNAME "jayvaliya"
 #define VALID_PASSWORD "Jay@2210"
 
 int main()
